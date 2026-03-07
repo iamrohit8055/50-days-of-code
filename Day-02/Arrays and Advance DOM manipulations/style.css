@@ -1,0 +1,19 @@
+.big {
+    font-size: 30px;
+    color: blue;
+    background-color: pink;
+
+}
+
+.darkmode{
+    color: white;
+    background-color: black;
+
+}
+
+.changedText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    /* font-size: large; */
+    text-align: center;
+}
