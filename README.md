@@ -47,21 +47,6 @@ For the next **50 days**, I will consistently learn, build projects, and solve c
 
 ---
 
-## Repository Structure
-
-```
-50-days-of-code
-│
-├── Day1
-│   ├── javascript-practice.js
-│   ├── dom-practice
-│   └── dsa
-│
-├── Day2
-├── Day3
-│
-└── ...
-```
 
 Each folder contains:
 
@@ -71,14 +56,6 @@ Each folder contains:
 * Mini projects
 
 ---
-
-## Progress Log
-
-| Day   | Topics                              | DSA Problems                             |
-| ----- | ----------------------------------- | ---------------------------------------- |
-| Day 1 | JavaScript Basics, DOM Manipulation | Two Sum, Best Time to Buy and Sell Stock |
-
-*(This table will be updated daily.)*
 
 ---
 
