@@ -17,7 +17,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 
 // Optimal approach
 
-vector<int> twoSum(vector<int>& nums, int target) {
+vector<int> twoSum1(vector<int>& nums, int target) {
 
     unordered_map<int,int> mp;
 
@@ -41,7 +41,7 @@ int main() {
     vector<int> nums = {2,7,11,15};
     int target = 9;
 
-    vector<int> ans = twoSum(nums, target);
+    vector<int> ans = twoSum1(nums, target);
 
     cout << "Indices: " << ans[0] << " " << ans[1] << endl;
 
